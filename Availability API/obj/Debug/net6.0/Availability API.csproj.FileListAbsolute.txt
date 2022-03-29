@@ -1,0 +1,29 @@
+C:\Users\andre\source\repos\Availability API\Availability API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\andre\source\repos\Availability API\Availability API\bin\Debug\net6.0\appsettings.json
+C:\Users\andre\source\repos\Availability API\Availability API\bin\Debug\net6.0\Availability API.exe
+C:\Users\andre\source\repos\Availability API\Availability API\bin\Debug\net6.0\Availability API.deps.json
+C:\Users\andre\source\repos\Availability API\Availability API\bin\Debug\net6.0\Availability API.runtimeconfig.json
+C:\Users\andre\source\repos\Availability API\Availability API\bin\Debug\net6.0\Availability API.dll
+C:\Users\andre\source\repos\Availability API\Availability API\bin\Debug\net6.0\Availability API.pdb
+C:\Users\andre\source\repos\Availability API\Availability API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\andre\source\repos\Availability API\Availability API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\andre\source\repos\Availability API\Availability API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\andre\source\repos\Availability API\Availability API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\andre\source\repos\Availability API\Availability API\obj\Debug\net6.0\Availability API.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Availability API\Availability API\obj\Debug\net6.0\Availability API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\Availability API\Availability API\obj\Debug\net6.0\Availability API.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Availability API\Availability API\obj\Debug\net6.0\Availability API.AssemblyInfo.cs
+C:\Users\andre\source\repos\Availability API\Availability API\obj\Debug\net6.0\Availability API.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Availability API\Availability API\obj\Debug\net6.0\Availability API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\andre\source\repos\Availability API\Availability API\obj\Debug\net6.0\Availability API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andre\source\repos\Availability API\Availability API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\andre\source\repos\Availability API\Availability API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\andre\source\repos\Availability API\Availability API\obj\Debug\net6.0\scopedcss\bundle\Availability API.styles.css
+C:\Users\andre\source\repos\Availability API\Availability API\obj\Debug\net6.0\Availability API.csproj.CopyComplete
+C:\Users\andre\source\repos\Availability API\Availability API\obj\Debug\net6.0\Availability API.dll
+C:\Users\andre\source\repos\Availability API\Availability API\obj\Debug\net6.0\refint\Availability API.dll
+C:\Users\andre\source\repos\Availability API\Availability API\obj\Debug\net6.0\Availability API.pdb
+C:\Users\andre\source\repos\Availability API\Availability API\obj\Debug\net6.0\Availability API.genruntimeconfig.cache
+C:\Users\andre\source\repos\Availability API\Availability API\obj\Debug\net6.0\ref\Availability API.dll
+C:\Users\andre\source\repos\Availability API\Availability API\bin\Debug\net6.0\JSON\user_data.json
+C:\Users\andre\source\repos\Availability API\Availability API\bin\Debug\net6.0\Newtonsoft.Json.dll
